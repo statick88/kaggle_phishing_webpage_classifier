@@ -17,7 +17,7 @@ The Model:
 - A machine learning model based on random forest ensemble was built based 23 selected features using scikit-learn was trained with a testing accuracy of 96.5%
 - Correlation matrix of features was calculated for feature selection. The correlation matrix was visualised using seaborn heatmap. 
 
-## Acknowlegements and References
+## Acknowledgements and References
 
  - [Towards Benchmark Datasets For Machine Learning Based Website Phishing Detection: An Experimental Study,](https://arxiv.org/abs/2010.12847)
  - [Web page Phishing Detection Dataset ](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset)
