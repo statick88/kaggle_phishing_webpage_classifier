@@ -17,7 +17,7 @@ In previous study by Hannousse & Yahiouche, the research team has built a datase
 The provided dataset includes 11430 URLs with 87 extracted features. The dataset is designed to be used as benchmarks for machine learning-based phishing detection systems. Features are from three different classes: 56 extracted from the structure and syntax of URLs, 24 extracted from the content of their correspondent pages, and 7 are extracted by querying external services. The dataset is balanced, it contains exactly 50% phishing and 50% legitimate URLs.
 
 ## The Model
-- A machine learning model based on random forest ensemble was built based on 23 selected features using scikit-learn was trained with a testing accuracy of 96.5%
+- A machine learning model based on random forest classifier ensemble was built based on 23 selected features using scikit-learn was trained with a testing accuracy of 96.5%
 - Correlation matrix of features was calculated for feature selection. The correlation matrix was visualised using seaborn heatmap. 
 
 ## Acknowledgements and References
