@@ -1,6 +1,10 @@
 
 # Phishing Website Classifier
 
+The code was also uploaded to kaggle:
+
+[/aster-fung/phishing_website_detection_random_forest_96%+](https://www.kaggle.com/code/asterfung/phishing-website-detection-random-forest-96)
+
 ## Background:
 
 From small retail commerce to stock trades -  most of our lives are connected to the internet, which is reflected in the traction gained in the usage of e-commerce platforms including digital wallets, Paypal and credit cards. The substantial growth of e-commerce attracts fraudsters and identify theives. Among various hacking techniques, phishing remains the more common and effective way to hack into virtually any person’s/organization’s asset account. As phishing tactics are evolving, phishing detection methods must be co-evoluting as well to avoid asset loss. Machine learning is widely recognized for phishing webpage detection due to ease to build 
