@@ -9,7 +9,7 @@ The code was also uploaded to kaggle:
 
 From small retail commerce to stock trades -  most of our lives are connected to the internet, which is reflected in the traction gained in the usage of e-commerce platforms including digital wallets, Paypal and credit cards. The substantial growth of e-commerce attracts fraudsters and identify theives. Among various hacking techniques, phishing remains the more common and effective way to hack into virtually any person’s/organization’s asset account. As phishing tactics are evolving, phishing detection methods must be co-evoluting as well to avoid asset loss. Machine learning is widely recognized for phishing webpage detection. 
 
-In previous study by Hannousse & Yahiouche, the research team has built a dataset containing both authentic and phishing URLs, from which they have selected 87 features that have potential for phishing. The aim was to build dataset that when machine learning models are built upon, the models are generalised to detecting emerging phishing web pages. 
+In previous study by Hannousse & Yahiouche, the research team has built a dataset containing both legitimate and phishing URLs, from which they have selected 87 features that have potential for phishing. The aim was to build dataset that when machine learning models are built upon, the models are generalised to detecting emerging phishing web pages. 
 
 ## The Dataset 
 [Web page Phishing Detection Dataset ](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset)
