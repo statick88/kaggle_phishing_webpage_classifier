@@ -18,7 +18,7 @@ The provided dataset includes 11430 URLs with 87 extracted features. The dataset
 
 ## The Model
 The Model:
-- A machine learning model based on random forest ensemble was built based 23 selected features using scikit-learn was trained with a testing accuracy of 96.5%
+- A machine learning model based on random forest ensemble was built based on 23 selected features using scikit-learn was trained with a testing accuracy of 96.5%
 - Correlation matrix of features was calculated for feature selection. The correlation matrix was visualised using seaborn heatmap. 
 
 ## Acknowledgements and References
